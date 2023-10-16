@@ -1,4 +1,7 @@
 {
+	"[prisma]": {
+		"editor.defaultFormatter": "Prisma.prisma"
+	},
 	"[typescript]": {
 		"editor.codeActionsOnSave": {
 			"source.organizeImports": true,
@@ -10,6 +13,7 @@
 		},
 	},
 	"editor.detectIndentation": false,
+	"editor.formatOnSave": true,
 	"editor.insertSpaces": false,
 	"typescript.format.semicolons": "remove",
 	"typescript.preferences.importModuleSpecifier": "relative",
